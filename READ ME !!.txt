@@ -1,0 +1,29 @@
+steps to use this Converter !!!
+-------------------------------
+
+
+1 - copy and paste the required PDF Files in this folder or copy the PDF.py file to Your PDF folder.
+
+2 - Double-click To run the Setup.
+
+3 - Provide The File Name or the Path name.
+
+4 - converting the document using following options.
+
+5 - follow the instructions given in the convertor.
+
+6 - Happy Converting :)
+
+Pre - requisites :
+------------------
+
+1 - Python 3.7 or higher.
+
+2 - Included Neccessay Modules.
+
+3 - To install using this Program Type 5 and Hit Enter to install the modules.
+
+Error :(
+---------
+
+if you received any error in the program like "no module named like (some modules)" follow step 3 in pre-requisites :) .
